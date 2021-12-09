@@ -20,8 +20,9 @@
     "moduleResolution": "node",
     "jsx": "react",
     "esModuleInterop": true,
-    "rootDir": "./",
+    "rootDir": "./src",
     "baseUrl": "./",
+    "outDir": "dist",
     "paths": {
       "*": ["src/*", "node_modules/*"]
     }
