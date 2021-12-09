@@ -3,7 +3,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A patch of @web3-react/magic-connector with polygon support",
   "keywords": [
     "react",
@@ -25,7 +25,7 @@
     "url": "git://github.com/kyreeves/web3-react-magic-connector.git"
   },
   "main": "dist/index.js",
-  "module": "dist/magic-connector.esm.js",
+  "module": "dist/web3-react-magic-connector.esm.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
